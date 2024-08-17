@@ -1,0 +1,20 @@
+# RETO #00: EL FAMOSO "FIZZ BUZZ"
+Dificultad: Fácil | Lenguajes: Python, Java, JavaScript y kotlin.
+
+## Enunciado
+
+```
+Escribe un programa que muestre por consola (con un print) los números de 1 a 100 (ambos incluidos y con un salto de línea entre cada impresión), sustituyendo los siguientes:
+
+- Múltiplos de 3 por la palabra "fizz".
+- Múltiplos de 5 por la palabra "buzz".
+- Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
+```
+
+## Respuestas
+
+Soluciones al reto: 
+[Java](/RETOS/Reto00/Reto00.java) | 
+[JavaScript](/RETOS/Reto00/Reto00.js) | 
+[Python](/RETOS/Reto00/Reto00.py) |
+[Kotlin](/RETOS/Reto00/Reto00.kt)

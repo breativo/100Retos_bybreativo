@@ -18,7 +18,7 @@ En este listado dispondras del titulo de cada unos de los retos y su dificultad.
 | 00    | FÁCIL      | ['EL FAMOSO "FIZZ BUZZ"'](./RETOS/Reto00/Enunciado.md)   |
 | 01    | FÁCIL      | ['¿ES UN ANAGRAMA?'](./RETOS/Reto01/Enunciado.md)  |
 | 02    | FÁCIL      | []()   |
-| 03    | DIFICIL      | ['lA SUCESIÓN DE FIBONACCI'](./RETOS/Reto03/Enunciado.md)   |
+| 03    | DIFICIL      | ['LA SUCESIÓN DE FIBONACCI'](./RETOS/Reto03/Enunciado.md)   |
 | 04    | MEDIO      |  ['¿ES UN NÚMERO PRIMO?'](./RETOS/Reto04/Enunciado.md)  |
 
 
