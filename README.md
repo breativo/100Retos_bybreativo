@@ -13,17 +13,14 @@ Este repositorio contiene una colección de 100 retos de programación con soluc
 ## Listado de retos
 En este listado dispondras del titulo de cada unos de los retos y su dificultad.
 
-| Número | Nivel | Reto |
+| Número | Nivel         | Reto        |
 |--------|-------------- |-------------|
+| 00    | FÁCIL      | ['EL FAMOSO "FIZZ BUZZ"'](./RETOS/Reto00/Enunciado.md)   |
+| 01    | FÁCIL      | ['¿ES UN ANAGRAMA?'](./RETOS/Reto01/Enunciado.md)  |
+| 02    | FÁCIL      | []()   |
+| 03    | DIFICIL      | ['lA SUCESIÓN DE FIBONACCI'](./RETOS/Reto03/Enunciado.md)   |
+| 04    | MEDIO      |  ['¿ES UN NÚMERO PRIMO?'](./RETOS/Reto04/Enunciado.md)  |
 
-| **#00** | FÁCIL | ['EL FAMOSO "FIZZ BUZZ"'](./RETOS/Reto00/Enunciado.md) |
-
-| **#01** | FÁCIL | ['¿ES UN ANAGRAMA?'](./RETOS/Reto01/Enunciado.md) |
-
-| **#03**|  DIFICIL| ['lA SUCESIÓN DE FIBONACCI'](./RETOS/Reto03/Enunciado.md)|
-
-| **#04** | MEDIO | ['¿ES UN NÚMERO PRIMO?](./RETOS/Reto04/Enunciado.md)|
-  
 
 (El listado completo estará disponible en futuras actualizaciones).
 ## Cómo contribuir
