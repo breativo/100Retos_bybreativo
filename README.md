@@ -21,6 +21,7 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 02    | FÁCIL      | [VOCAL O CONSONANTE](./RETOS/RETO02/Enunciado.md)   |
 | 03    | MEDIO      | [LA SUCESIÓN DE FIBONACCI](./RETOS/Reto03/Enunciado.md)   |
 | 04    | MEDIO      | [¿ES UN NÚMERO PRIMO?](./RETOS/Reto04/Enunciado.md)  |
+| 05    | MEDIO      | [PARTIDO TENIS](./RETOS/Reto05/Enunciado.md)|
 
 
 (El listado completo estará disponible en futuras actualizaciones).

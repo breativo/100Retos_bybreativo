@@ -1,4 +1,4 @@
-# RETO #00: ¿ES UN NÚMERO PRIMO?
+# RETO #05: PARTIDO DE TENIS
 Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 
 ## Enunciado
@@ -30,10 +30,10 @@ Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 Listado de los [100 retos](/README.md)
 
 Soluciones al reto: 
-[Java](/RETOS/Reto04/Reto04.java) | 
-[JavaScript](/RETOS/Reto04/Reto04.js) | 
-[Python](/RETOS/Reto04/Reto04.py) |
-[Kotlin](/RETOS/Reto04/Reto04.kt)
+[Java](/RETOS/Reto05/Reto05.java) | 
+[JavaScript](/RETOS/Reto05/Reto05.js) | 
+[Python](/RETOS/Reto05/Reto05.py) |
+[Kotlin](/RETOS/Reto05/Reto05.kt)
 
 
 
