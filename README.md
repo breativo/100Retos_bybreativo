@@ -1,6 +1,6 @@
 # Retos de programación by breativo
 
-![Retos de programacion by breativo](/img/header.png)
+![Retos de programación by breativo](/img/header.png)
 
 
 ## Descripción
@@ -12,15 +12,15 @@ Este repositorio contiene una colección de **100 retos de programación** con s
 * Este repositorio se basa en ejercicios inspirados por **Mouredev**, un referente en el sector de la programación. Gracias a **Brais Moure**, he adquirido conocimientos que han sido fundamentales para mi desarrollo como programador.
 
 ## Listado de retos
-En este **listado** dispondras del titulo de cada unos de los **retos y su dificultad**.
+En este **listado** dispondrás del titulo de cada unos de los **retos y su dificultad**.
 
 | Número | Nivel         | Reto        |
 |--------|-------------- |-------------|
-| 00    | FÁCIL      | ['EL FAMOSO "FIZZ BUZZ"'](./RETOS/Reto00/Enunciado.md)   |
-| 01    | FÁCIL      | ['¿ES UN ANAGRAMA?'](./RETOS/Reto01/Enunciado.md)  |
-| 02    | FÁCIL      | []()   |
-| 03    | DIFICIL      | ['LA SUCESIÓN DE FIBONACCI'](./RETOS/Reto03/Enunciado.md)   |
-| 04    | MEDIO      |  ['¿ES UN NÚMERO PRIMO?'](./RETOS/Reto04/Enunciado.md)  |
+| 00    | FÁCIL      | [EL FAMOSO "FIZZ BUZZ"](./RETOS/Reto00/Enunciado.md)   |
+| 01    | FÁCIL      | [¿ES UN ANAGRAMA?](./RETOS/Reto01/Enunciado.md)  |
+| 02    | FÁCIL      | [VOCAL O CONSONANTE]()   |
+| 03    | DIFÍCIL      | [LA SUCESIÓN DE FIBONACCI](./RETOS/Reto03/Enunciado.md)   |
+| 04    | MEDIO      |  [¿ES UN NÚMERO PRIMO?](./RETOS/Reto04/Enunciado.md)  |
 
 
 (El listado completo estará disponible en futuras actualizaciones).
