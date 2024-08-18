@@ -1,5 +1,5 @@
 
-# RETO #02: CONSONANTE O VOCAL
+# RETO #02: VOCAL O CONSONANTE
 Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 
 ## Enunciado
