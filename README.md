@@ -18,9 +18,9 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 |--------|-------------- |-------------|
 | 00    | FÁCIL      | [EL FAMOSO "FIZZ BUZZ"](./RETOS/Reto00/Enunciado.md)   |
 | 01    | FÁCIL      | [¿ES UN ANAGRAMA?](./RETOS/Reto01/Enunciado.md)  |
-| 02    | FÁCIL      | [VOCAL O CONSONANTE]()   |
-| 03    | DIFÍCIL      | [LA SUCESIÓN DE FIBONACCI](./RETOS/Reto03/Enunciado.md)   |
-| 04    | MEDIO      |  [¿ES UN NÚMERO PRIMO?](./RETOS/Reto04/Enunciado.md)  |
+| 02    | FÁCIL      | [VOCAL O CONSONANTE](./RETOS/RETO02/Enunciado.md)   |
+| 03    | MEDIO      | [LA SUCESIÓN DE FIBONACCI](./RETOS/Reto03/Enunciado.md)   |
+| 04    | MEDIO      | [¿ES UN NÚMERO PRIMO?](./RETOS/Reto04/Enunciado.md)  |
 
 
 (El listado completo estará disponible en futuras actualizaciones).

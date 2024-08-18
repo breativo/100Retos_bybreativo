@@ -1,5 +1,5 @@
 # RETO #00: EL FAMOSO "FIZZ BUZZ"
-Dificultad: Fácil | Lenguajes: Python, Java, JavaScript y kotlin.
+Dificultad: Fácil | Lenguajes: Python, Java, JavaScript y Kotlin.
 
 ## Enunciado
 
@@ -14,10 +14,20 @@ Escribe un programa que muestre por consola (con un print) los números de 1 a 1
 
 ```
 
-## Respuestas
+## Respuestas y retos
+Listado de los [100 retos](/README.md)
 
 Soluciones al reto: 
 [Java](/RETOS/Reto00/Reto00.java) | 
 [JavaScript](/RETOS/Reto00/Reto00.js) | 
 [Python](/RETOS/Reto00/Reto00.py) |
 [Kotlin](/RETOS/Reto00/Reto00.kt)
+
+
+
+## ¡Apóyame! 
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repositorio. ¡Gracias!
+
+### En mi perfil de GitHub tienes más información
+
+[![Web](https://img.shields.io/badge/GitHub-breativo-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/breativo)
