@@ -1,4 +1,4 @@
-# RETO #00: ¿ES UN NÚMERO PRIMO?
+# RETO #04: ¿ES UN NÚMERO PRIMO?
 Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 
 ## Enunciado

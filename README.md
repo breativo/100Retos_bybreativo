@@ -1,6 +1,6 @@
 # Retos de programación by breativo
 
-![Retos de programación by breativo](/img/header.png)
+![Retos de programación by breativo](/img/100retos_bybreativo.png)
 
 
 ## Descripción
@@ -22,6 +22,7 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 03    | MEDIO      | [LA SUCESIÓN DE FIBONACCI](./RETOS/Reto03/Enunciado.md)   |
 | 04    | MEDIO      | [¿ES UN NÚMERO PRIMO?](./RETOS/Reto04/Enunciado.md)  |
 | 05    | MEDIO      | [PARTIDO TENIS](./RETOS/Reto05/Enunciado.md)|
+| 06    | FÁCIL      | [ÁREA DE UN POLÍGONO](./RETOS/Reto06/Enunciado.md)|
 
 
 (El listado completo estará disponible en futuras actualizaciones).
