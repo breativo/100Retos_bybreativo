@@ -23,7 +23,12 @@ Soluciones al reto:
 [Python](/RETOS/Reto00/Reto00.py) |
 [Kotlin](/RETOS/Reto00/Reto00.kt)
 
+## Respuestas Python
+<div center="aling">
+<img src=""
 
+/>
+</div>
 
 ## ¡Apóyame! 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repositorio. ¡Gracias!
