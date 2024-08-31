@@ -23,6 +23,9 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 04    | MEDIO      | [¿ES UN NÚMERO PRIMO?](./RETOS/Reto04/Enunciado.md)  |
 | 05    | MEDIO      | [PARTIDO TENIS](./RETOS/Reto05/Enunciado.md)|
 | 06    | FÁCIL      | [ÁREA DE UN POLÍGONO](./RETOS/Reto06/Enunciado.md)|
+| 07    | FÁCIL      | [CADENA INVERTIDA](./RETOS/Reto07/Enunciado.md)|
+| 08    | MEDIO      | [CONTADOR DE PALABRAS](./RETOS/Reto08/Enunciado.md)|
+| 09    | FÁCIL      | [DECIMAL A BINARIO & BINARIO A DECIMAL](./RETOS/Reto06/Enunciado.md)|
 
 
 (El listado completo estará disponible en futuras actualizaciones).
