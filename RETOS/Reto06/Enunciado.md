@@ -33,8 +33,8 @@ Lado es la longitud de uno de los lados del cuadrado (todos los lados son iguale
 
 **Rectángulo**
 
-    El área de un rectángulo se calcula con la fórmula:
-    Área=base×altura
+El área de un rectángulo se calcula con la fórmula:
+Área=base×altura
 
 Donde:
 Base es la longitud de la base del rectángulo.
