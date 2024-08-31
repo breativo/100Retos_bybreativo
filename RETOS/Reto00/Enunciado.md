@@ -27,7 +27,7 @@ Soluciones al reto:
 <div center="aling">
 <img src="https://github.com/breativo/100retos_bybreativo/blob/master/img/reto01.png"
 alt="Solución reto Python"
-style="width:100%;
+style="width:50%;
 
 />
 </div>
