@@ -1,4 +1,4 @@
-package RETOS.Reto2;
+package RETOS.Reto02;
 import java.util.Scanner;
 public class Reto02 {
 /*
