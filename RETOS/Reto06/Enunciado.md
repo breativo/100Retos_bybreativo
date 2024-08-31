@@ -8,7 +8,6 @@ Crea una única función (importante que sólo sea una) que sea capaz de calcula
  - La función recibirá por parámetro sólo un polígono a la vez.
  - Los polígonos soportados serán Triángulo, Cuadrado y Rectángulo.
  - Imprime el cálculo del área de un polígono de cada tipo.
-
 ```
 
 ## Ayuda
@@ -17,29 +16,29 @@ Fórmulas para el Cálculo del Área de los Polígonos.
 
 **Triángulo**
 
-    El área de un triángulo se puede calcular con la fórmula:
-    Área=1/2×base×altura 
+El área de un triángulo se puede calcular con la fórmula:
+Área=1/2×base×altura 
 
-    Donde:
-        Base es la longitud de la base del triángulo.
-        Altura es la altura perpendicular desde la base al vértice opuesto.
+Donde:
+Base es la longitud de la base del triángulo.
+Altura es la altura perpendicular desde la base al vértice opuesto.
 
 **Cuadrado**
 
-    El área de un cuadrado se calcula con la fórmula:
-    Área=lado x lado
+El área de un cuadrado se calcula con la fórmula:
+Área=lado x lado
 
-    Donde:
-        Lado es la longitud de uno de los lados del cuadrado (todos los lados son iguales).
+Donde:
+Lado es la longitud de uno de los lados del cuadrado (todos los lados son iguales).
 
 **Rectángulo**
 
     El área de un rectángulo se calcula con la fórmula:
     Área=base×altura
 
-    Donde:
-        Base es la longitud de la base del rectángulo.
-        Altura es la longitud de la altura del rectángulo (la dimensión perpendicular a la base).
+Donde:
+Base es la longitud de la base del rectángulo.
+Altura es la longitud de la altura del rectángulo (la dimensión perpendicular a la base).
 
 ## Respuestas y retos
 Listado de los [100 retos](/README.md)
@@ -50,7 +49,14 @@ Soluciones al reto:
 [Python](/RETOS/Reto06/Reto06.py) |
 [Kotlin](/RETOS/Reto06/Reto06.kt)
 
+## Respuesta Python
+<div aling="center">
+<img src="https://github.com/breativo/100retos_bybreativo/blob/master/img/reto06.png"
+alt="Solución reto Python"
+style="width:50%;"/>
+</div>
 
+</br>
 
 ## ¡Apóyame! 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repositorio. ¡Gracias!

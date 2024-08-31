@@ -4,11 +4,8 @@ Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 ## Enunciado
 
 ```
-
  Escribe un programa que se encargue de comprobar si un número es o no primo.
  Hecho esto, imprime los números primos entre 1 y 100.
-
-
 ```
 
 ## Respuestas y retos
@@ -20,7 +17,14 @@ Soluciones al reto:
 [Python](/RETOS/Reto04/Reto04.py) |
 [Kotlin](/RETOS/Reto04/Reto04.kt)
 
+## Respuesta Python
+<div aling="center">
+<img src="https://github.com/breativo/100retos_bybreativo/blob/master/img/reto04.png"
+alt="Solución reto Python"
+style="width:50%;"/>
+</div>
 
+</br>
 
 ## ¡Apóyame! 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repositorio. ¡Gracias!

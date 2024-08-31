@@ -4,14 +4,11 @@ Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 ## Enunciado
 
 ```
-
 Escribe un programa que imprima los 50 primeros números de la sucesión de Fibonacci empezando en 0.
 
      - La serie Fibonacci se compone por una sucesión de números en La que el siguiente siempre es la suma de los dos anteriores.
         
         Ejemplo: 0, 1, 1, 2, 3, 5, 8, 13...
-
-
 ```
 
 ## Respuestas y retos
@@ -23,6 +20,14 @@ Soluciones al reto:
 [Python](/RETOS/Reto03/Reto03.py) |
 [Kotlin](/RETOS/Reto03/Reto03.kt)
 
+## Respuesta Python
+<div aling="center">
+<img src="https://github.com/breativo/100retos_bybreativo/blob/master/img/reto03.png"
+alt="Solución reto Python"
+style="width:50%;"/>
+</div>
+
+</br>
 
 
 ## ¡Apóyame! 

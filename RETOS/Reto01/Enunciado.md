@@ -5,7 +5,6 @@ Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 ## Enunciado
 
 ```
-
 Escribe una función que reciba dos palabras (String) y retorne verdadero o falso (Boolean) según sean o no anagramas.
 
  -Un Anagrama consiste en formar una palabra reordenando TODAS las letras de otra palabra inicial.
@@ -22,6 +21,15 @@ Soluciones al reto:
 [JavaScript](/RETOS/Reto01/Reto01.js) | 
 [Python](/RETOS/Reto01/Reto01.py) |
 [Kotlin](/RETOS/Reto01/Reto01.kt)
+
+## Respuesta Python
+<div aling="center">
+<img src="https://github.com/breativo/100retos_bybreativo/blob/master/img/reto01.png"
+alt="Solución reto Python"
+style="width:50%;"/>
+</div>
+
+</br>
 
 ## ¡Apóyame! 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repositorio. ¡Gracias!

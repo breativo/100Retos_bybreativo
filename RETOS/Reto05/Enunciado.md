@@ -4,7 +4,6 @@ Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 ## Enunciado
 
 ```
-
  Escribe un programa que muestre cómo transcurre un juego de tenis y quién lo ha ganado. El programa recibirá una secuencia formada por "P1" (Player 1) o "P2" (Player 2), según quien gane cada punto del juego.
  
 - Las puntuaciones de un juego son 00, 15, 30, 40, "Deuce" (empate), ventaja.
@@ -22,8 +21,6 @@ Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 - Si quieres, puedes controlar errores en la entrada de datos.  
  
 - Consulta las reglas del juego si tienes dudas sobre el sistema de puntos.   
-
-
 ```
 
 ## Respuestas y retos
@@ -35,7 +32,14 @@ Soluciones al reto:
 [Python](/RETOS/Reto05/Reto05.py) |
 [Kotlin](/RETOS/Reto05/Reto05.kt)
 
+## Respuesta Python
+<div aling="center">
+<img src="https://github.com/breativo/100retos_bybreativo/blob/master/img/reto05.png"
+alt="Solución reto Python"
+style="width:50%;"/>
+</div>
 
+</br>
 
 ## ¡Apóyame! 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repositorio. ¡Gracias!

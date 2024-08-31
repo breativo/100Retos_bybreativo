@@ -5,8 +5,6 @@ Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 ## Enunciado
 
 ```
-
-
 Escribe un programa que reciba un solo carácter por parte del usuario y muestre por consola (con un print) si dicho carácter es una vocal o una consonante. Si el carácter no es una letra, el programa deberá mostrar un mensaje de error.
 
 - Si el carácter es una vocal, mostrará: "Es una vocal".
@@ -14,8 +12,6 @@ Escribe un programa que reciba un solo carácter por parte del usuario y muestre
 - Si el carácter no es una letra (números, símbolos, espacios, etc.), mostrará: "Error: No es una letra".
 
 El programa debe funcionar tanto para letras mayúsculas como minúsculas.
-
-
 ```
 
 ## Respuestas y retos
@@ -26,6 +22,15 @@ Soluciones al reto:
 [JavaScript](/RETOS/RETO02/Reto02.js) | 
 [Python](/RETOS/RETO02/Reto02.py) |
 [Kotlin](/RETOS/RETO02/Reto02.kt)
+
+## Respuesta Python
+<div aling="center">
+<img src="https://github.com/breativo/100retos_bybreativo/blob/master/img/reto02.png"
+alt="Solución reto Python"
+style="width:50%;"/>
+</div>
+
+</br>
 
 ## ¡Apóyame! 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repositorio. ¡Gracias!
