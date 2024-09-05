@@ -34,7 +34,7 @@ Soluciones al reto:
 
 ## Respuesta Python
 <div aling="center">
-<img src="https://github.com/breativo/100retos_bybreativo/blob/master/img/reto08.png"
+<img src="https://github.com/breativo/100retos_bybreativo/blob/master/img/reto09.png"
 alt="Solución reto Python"
 style="width:50%;"/>
 </div>
