@@ -1,4 +1,4 @@
-# RETO #08: CONTADOR DE PALABRAS
+# RETO #08: PIEDRA, TIJERA O PAPEL
 Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 
 ## Enunciado
