@@ -25,7 +25,7 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 06    | FÁCIL      | [ÁREA DE UN POLÍGONO](./RETOS/Reto06/Enunciado.md)|
 | 07    | FÁCIL      | [CADENA INVERTIDA](./RETOS/Reto07/Enunciado.md)|
 | 08    | MEDIO      | [CONTADOR DE PALABRAS](./RETOS/Reto08/Enunciado.md)|
-| 09    | FÁCIL      | [DECIMAL A BINARIO & BINARIO A DECIMAL](./RETOS/Reto06/Enunciado.md)|
+| 09    | FÁCIL      | [PIEDRA, PAPEL O TIJERAS](./RETOS/Reto09/Enunciado.md)|
 
 
 (El listado completo estará disponible en futuras actualizaciones).
