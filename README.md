@@ -26,6 +26,7 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 07    | FÁCIL      | [CADENA INVERTIDA](./RETOS/Reto07/Enunciado.md)|
 | 08    | MEDIO      | [CONTADOR DE PALABRAS](./RETOS/Reto08/Enunciado.md)|
 | 09    | MEDIO      | [PIEDRA, PAPEL O TIJERAS](./RETOS/Reto09/Enunciado.md)|
+| 10    | MEDIO      | [EL SOMBRERO SELECCIONADOR](./RETOS/Reto10/Enunciado.md)|
 
 
 (El listado completo estará disponible en futuras actualizaciones).

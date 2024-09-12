@@ -1,4 +1,4 @@
-# RETO #08: PIEDRA, TIJERA O PAPEL
+# RETO #09: PIEDRA, TIJERA O PAPEL
 Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 
 ## Enunciado
