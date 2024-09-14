@@ -20,14 +20,6 @@ Soluciones al reto:
 [Python](/RETOS/Reto08/Reto08.py) |
 [Kotlin](/RETOS/Reto08/Reto08.kt)
 
-## Respuesta Python
-<div aling="center">
-<img src="https://github.com/breativo/100retos_bybreativo/blob/master/img/reto08.png"
-alt="Solución reto Python"
-style="width:50%;"/>
-</div>
-
-</br>
 
 ## ¡Apóyame! 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repositorio. ¡Gracias!

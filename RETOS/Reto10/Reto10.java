@@ -20,7 +20,7 @@ public class Reto10 {
         Scanner scanner = new Scanner(System.in);
 
         int gryffindor = 0, slytherin = 0, hufflepuff = 0, ravenclaw = 0;
-
+        System.out.println("El sombrero seleccionador te asignara una casa dependiendo de tus respuestas:");
         // Preguntas
         System.out.println("Pregunta 1: ¿Qué valoras más en un proyecto?");
         System.out.println("1) Coraje");

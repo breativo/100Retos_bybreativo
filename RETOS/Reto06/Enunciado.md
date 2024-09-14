@@ -49,14 +49,6 @@ Soluciones al reto:
 [Python](/RETOS/Reto06/Reto06.py) |
 [Kotlin](/RETOS/Reto06/Reto06.kt)
 
-## Respuesta Python
-<div aling="center">
-<img src="https://github.com/breativo/100retos_bybreativo/blob/master/img/reto06.png"
-alt="Solución reto Python"
-style="width:50%;"/>
-</div>
-
-</br>
 
 ## ¡Apóyame! 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repositorio. ¡Gracias!

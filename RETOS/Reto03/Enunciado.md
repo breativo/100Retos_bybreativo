@@ -20,14 +20,6 @@ Soluciones al reto:
 [Python](/RETOS/Reto03/Reto03.py) |
 [Kotlin](/RETOS/Reto03/Reto03.kt)
 
-## Respuesta Python
-<div aling="center">
-<img src="https://github.com/breativo/100retos_bybreativo/blob/master/img/reto03.png"
-alt="Solución reto Python"
-style="width:50%;"/>
-</div>
-
-</br>
 
 
 ## ¡Apóyame! 
