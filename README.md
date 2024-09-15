@@ -1,6 +1,6 @@
 # Retos de programación by breativo
 
-![Retos de programación by breativo](/img/100retos_bybreativo.png)
+![Retos de programación by breativo](/100retos_bybreativo.png)
 
 
 ## Descripción
