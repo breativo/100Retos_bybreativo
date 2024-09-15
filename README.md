@@ -27,6 +27,8 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 08    | MEDIO      | [CONTADOR DE PALABRAS](./RETOS/Reto08/Enunciado.md)|
 | 09    | MEDIO      | [PIEDRA, PAPEL O TIJERAS](./RETOS/Reto09/Enunciado.md)|
 | 10    | MEDIO      | [EL SOMBRERO SELECCIONADOR](./RETOS/Reto10/Enunciado.md)|
+| 11    | MEDIO      | [GENERADOR DE CONTRASEÑA](./RETOS/Reto11/Enunciado.md)|
+| 12    | MEDIO      | [AVERIGUA EL NÚMERO OCULTO](./RETOS/Reto12/Enunciado.md)|
 
 
 (El listado completo estará disponible en futuras actualizaciones).
