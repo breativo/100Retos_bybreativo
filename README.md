@@ -29,6 +29,7 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 10    | MEDIO      | [EL SOMBRERO SELECCIONADOR](./RETOS/Reto10/Enunciado.md)|
 | 11    | MEDIO      | [GENERADOR DE CONTRASEÑA](./RETOS/Reto11/Enunciado.md)|
 | 12    | MEDIO      | [AVERIGUA EL NÚMERO OCULTO](./RETOS/Reto12/Enunciado.md)|
+| 13    | FACIL      | [LISTADO DE GANADORES](./RETOS/Reto13/Enunciado.md)|
 
 
 (El listado completo estará disponible en futuras actualizaciones).
