@@ -21,7 +21,7 @@ Consideraciones adicionales:
 import random
 
 def cargar_lista(archivo):
-    """Carga los nombres de un archivo de texto y devuelve una lista de nombres."""
+    
     try:
         with open(archivo, 'r', encoding='utf-8') as f:
             nombres = f.read().splitlines()  # Lee cada línea como un nombre
