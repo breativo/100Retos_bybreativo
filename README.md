@@ -31,6 +31,7 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 12    | MEDIO      | [AVERIGUA EL NÚMERO OCULTO](./RETOS/Reto12/Enunciado.md)|
 | 13    | MEDIO      | [LISTADO DE GANADORES](./RETOS/Reto13/Enunciado.md)|
 | 14    | FÁCIL      | [CONTADOR DE VOCALES](./RETOS/Reto14/Enunciado.md)|
+| 15    | MEDIO      | [LA ESCALERA](./RETOS/Reto15/Enunciado.md)|
 
 (El listado completo estará disponible en futuras actualizaciones).
 ## Cómo contribuir
