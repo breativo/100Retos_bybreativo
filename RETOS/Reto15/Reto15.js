@@ -1,9 +1,9 @@
 /*
-Crea un programa que dibuje una escalera en función del número de escalones proporcionado por el usuario. El programa debe seguir las siguientes reglas:
+* Crea un programa que dibuje una escalera en función del número de escalones proporcionado por el usuario. El programa debe seguir las siguientes reglas:
 
-- Si el número de escalones es positivo, la escalera será ascendente de izquierda a derecha. Cada peldaño estará compuesto por un guion bajo (_) y una barra vertical (|), con un desplazamiento hacia la derecha en cada línea.
-- Si el número de escalones es negativo, la escalera será descendente de izquierda a derecha. En este caso, cada peldaño estará compuesto por una barra vertical (|) y un guion bajo (_), con un desplazamiento hacia la derecha en cada línea.
-- Si el número de escalones es cero, se dibujarán dos guiones bajos (__) en dos líneas diferentes.
+* - Si el número de escalones es positivo, la escalera será ascendente de izquierda a derecha. Cada peldaño estará compuesto por un guion bajo (_) y una barra vertical (|), con un desplazamiento hacia la derecha en cada línea.
+* - Si el número de escalones es negativo, la escalera será descendente de izquierda a derecha. En este caso, cada peldaño estará compuesto por una barra vertical (|) y un guion bajo (_), con un desplazamiento hacia la derecha en cada línea.
+* - Si el número de escalones es cero, se dibujarán dos guiones bajos (__) en dos líneas diferentes.
 */
 
 const readline = require('readline');
