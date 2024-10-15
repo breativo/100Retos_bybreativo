@@ -32,7 +32,7 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 13    | MEDIO      | [LISTADO DE GANADORES](./RETOS/Reto13/Enunciado.md)|
 | 14    | FÁCIL      | [CONTADOR DE VOCALES](./RETOS/Reto14/Enunciado.md)|
 | 15    | MEDIO      | [LA ESCALERA](./RETOS/Reto15/Enunciado.md)|
-| 16    | MEDIO      | []()|
+| 16    | MEDIO      | [BLACKJACK](./RETOS/Reto16/Enunciado.md)|
 
 (El listado completo estará disponible en futuras actualizaciones).
 ## Cómo contribuir
