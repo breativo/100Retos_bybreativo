@@ -1,10 +1,10 @@
-# RETO #16:
+# RETO #16: BLACKJACK
 Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 
 ## Enunciado
 
 ```
-Desarrolla un programa que simule un juego de cartas en el que participan el usuario contra a maquina. El jugador principal deberá introducir su nombre para jugar contra el sistema. El objetivo es acercarse lo más posible a 21 puntos sin pasarse.
+Desarrolla un programa que simule un juego de cartas en el que participan el usuario contra La maquina. El jugador principal deberá introducir su nombre para jugar contra el sistema. El objetivo es acercarse lo más posible a 21 puntos sin pasarse.
 
 Reglas del juego:
 
