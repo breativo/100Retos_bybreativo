@@ -33,6 +33,7 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 14    | FÁCIL      | [CONTADOR DE VOCALES](./RETOS/Reto14/Enunciado.md)|
 | 15    | MEDIO      | [LA ESCALERA](./RETOS/Reto15/Enunciado.md)|
 | 16    | MEDIO      | [BLACKJACK](./RETOS/Reto16/Enunciado.md)|
+| 17    | MEDIO      | [AVERIGUA LA PALABRA QUE SE ESCONDE](./RETOS/Reto17/Enunciado.md)|
 
 (El listado completo estará disponible en futuras actualizaciones).
 ## Cómo contribuir
