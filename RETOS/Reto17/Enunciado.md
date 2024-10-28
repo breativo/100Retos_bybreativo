@@ -4,7 +4,7 @@ Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 ## Enunciado
 
 ```
-Desarrollar un programa que seleccione una palabra aleatoria de un archivo de texto (.txt) y oculte el 50% de las letras de la palabra. El usuario deberá adivinar las letras faltantes, teniendo un máximo de 2 errores permitidos. Si introduce una letra incorrecta por tercera vez, perderá el juego.
+Crea un programa que seleccione una palabra aleatoria de un archivo de texto (.txt) y oculte el 50% de las letras de la palabra. El usuario deberá adivinar las letras faltantes, teniendo un máximo de 2 errores permitidos. Si introduce una letra incorrecta por tercera vez, perderá el juego.
 
 Descripción del Ejercicio:
 
@@ -27,10 +27,10 @@ El usuario debe introducir letras para completar la palabra:
 Listado de los [100 retos](/README.md)
 
 Soluciones al reto: 
-[Java](/RETOS/Reto16/Reto16.java) | 
-[JavaScript](/RETOS/Reto16/Reto16.js) | 
-[Python](/RETOS/Reto16/Reto16.py) |
-[Kotlin](/RETOS/Reto16/Reto16.kt)
+[Java](/RETOS/Reto17/Reto17.java) | 
+[JavaScript](/RETOS/Reto17/Reto17.js) | 
+[Python](/RETOS/Reto17/Reto17.py) |
+[Kotlin](/RETOS/Reto17/Reto17.kt)
 
 
 
