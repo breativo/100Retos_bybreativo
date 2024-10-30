@@ -35,6 +35,7 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 16    | MEDIO      | [BLACKJACK](./RETOS/Reto16/Enunciado.md)|
 | 17    | MEDIO      | [AVERIGUA LA PALABRA QUE SE ESCONDE](./RETOS/Reto17/Enunciado.md)|
 | 18    | MEDIO      | [CÓDIGO MORSE](./RETOS/Reto18/Enunciado.md)|
+| 19    | MEDIO      | [¿ES UN PALÍNDROMO?](./RETOS/Reto19/enunciado.md)|
 
 (El listado completo estará disponible en futuras actualizaciones).
 ## Cómo contribuir

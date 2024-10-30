@@ -1,4 +1,3 @@
-package RETOS.Reto19;
 
 import java.text.Normalizer;
 import java.util.Scanner;
