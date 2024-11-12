@@ -38,6 +38,7 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 19    | MEDIO      | [¿ES UN PALÍNDROMO?](./RETOS/Reto19/enunciado.md)|
 | 20    | FACIL      | [CALCULADORA DE DÍAS](./RETOS/Reto20/enunciado.md)|
 | 21    | MEDIO      | [CUENTA ATRÁS](./RETOS/Reto21/enunciado.md)|
+| 22    | MEDIO      | [JUEGOS DADOS](./RETOS/Reto22/Enunciado.md)|
 
 (El listado completo estará disponible en futuras actualizaciones).
 ## Cómo contribuir
