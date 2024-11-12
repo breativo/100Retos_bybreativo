@@ -4,9 +4,7 @@ Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 ## Enunciado
 
 ```
-Crea un programa que simule una carrera de obstáculos para un único atleta, quien debe completar un circuito de 20 tramos. 
-El circuito se genera aleatoriamente y contiene tramos de suelo ("_") y vallas ("|").
-El atleta solo puede ingresar las acciones "run" para correr y "jump" para saltar.
+Crea un programa que simule una carrera de obstáculos para un único atleta, quien debe completar un circuito de 20 tramos. El circuito se genera aleatoriamente y contiene tramos de suelo ("_") y vallas ("|"). El atleta solo puede ingresar las acciones "run" para correr y "jump" para saltar.
 
 Circuito:
 
