@@ -39,6 +39,7 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 20    | FACIL      | [CALCULADORA DE DÍAS](./RETOS/Reto20/enunciado.md)|
 | 21    | MEDIO      | [CUENTA ATRÁS](./RETOS/Reto21/enunciado.md)|
 | 22    | MEDIO      | [JUEGOS DADOS](./RETOS/Reto22/Enunciado.md)|
+| 23    | FACIL      | [CARRERA DE OBSTÁCULOS](./RETOS/Reto23/Enunciado.md)|
 
 (El listado completo estará disponible en futuras actualizaciones).
 ## Cómo contribuir
