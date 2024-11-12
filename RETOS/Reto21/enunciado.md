@@ -9,17 +9,13 @@ Crea un programa de cuenta atrás que permita al usuario seleccionar el tiempo e
 Especificaciones:
 
 - El programa debe mostrar un menú de selección de tiempo, ofreciendo las opciones: 10, 20, 30, 40, 50, o 60 segundos.
-
 - El usuario seleccionará un valor para iniciar la cuenta atrás.
-
 - Una vez que el usuario haya seleccionado el tiempo, el programa iniciará la cuenta atrás en tiempo real, mostrando el tiempo restante cada segundo hasta llegar a cero.
-
 - Al finalizar, el programa mostrará un mensaje indicando que la cuenta atrás ha terminado.
 
 Requerimientos adicionales:
 
 - Controla que el valor ingresado sea válido (debe estar entre las opciones permitidas). En caso contrario, notifica al usuario y vuelve a solicitar una opción válida.
-
 - La cuenta atrás debe actualizarse en tiempo real, con una pausa de un segundo entre cada número mostrado.
 - El programa finaliza cuando la cuenta atrás llega a cero.
 
