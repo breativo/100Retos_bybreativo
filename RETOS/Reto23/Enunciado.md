@@ -26,7 +26,7 @@ Nombre del atleta: breativo
 Pista original:  __|_|___|_|__||_|__
 Pista final   :  _x|_|___|_|__||x|__
 Tiempo total de breativo: 38 segundos
-Fallos de Juan: 2
+Fallos de breativo: 2
 ```
 
 ## Respuestas y retos
