@@ -1,4 +1,4 @@
-# RETO #21: CARRERA DE OBSTÁCULOS
+# RETO #23: CARRERA DE OBSTÁCULOS
 Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 
 ## Enunciado

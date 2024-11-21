@@ -1,4 +1,4 @@
-# RETO #21: JUEGO DE DADOS
+# RETO #22: JUEGO DE DADOS
 Dificultad: Medio | Lenguajes: Python, Java, JavaScript y Kotlin.
 
 ## Enunciado

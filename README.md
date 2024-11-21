@@ -40,6 +40,7 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 21    | MEDIO      | [CUENTA ATRÁS](./RETOS/Reto21/enunciado.md)|
 | 22    | MEDIO      | [JUEGOS DADOS](./RETOS/Reto22/Enunciado.md)|
 | 23    | FACIL      | [CARRERA DE OBSTÁCULOS](./RETOS/Reto23/Enunciado.md)|
+| 24    | MEDIO      | [CARRERA DE CAMELLOS](./RETOS/Reto24/Enunciado.md)|
 
 (El listado completo estará disponible en futuras actualizaciones).
 ## Cómo contribuir
