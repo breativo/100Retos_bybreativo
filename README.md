@@ -43,7 +43,8 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 24    | MEDIO      | [CARRERA DE CAMELLOS](./RETOS/Reto24/Enunciado.md)|
 | 25    | DIFÍCIL    | [PARIS 2024](./RETOS/Reto25/Enunciado.md)|
 | 26    | FACIL      | [SORTEO DE LA SUERTE](./RETOS/Reto26/Enunciado.md)|
-| 27    | DIFÍCIL      |[LINEA O BINGO](./RETOS/Reto27/Enunciado.md)|
+| 27    | DIFÍCIL    |[LINEA O BINGO](./RETOS/Reto27/Enunciado.md)|
+| 28    | FACIL      |[ÁRBOL NAVIDAD](./RETOS/Reto28/Enunciado.md)|
 
 (El listado completo estará disponible en futuras actualizaciones).
 ## Cómo contribuir
