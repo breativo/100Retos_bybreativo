@@ -13,11 +13,11 @@ const rl = readline.createInterface({
 
 function generarCarton() {
     const carton = [];
-    carton.push(Math.floor(Math.random() * 11));        // 0-10
-    carton.push(Math.floor(Math.random() * 10) + 11);  // 11-20
-    carton.push(Math.floor(Math.random() * 10) + 21);  // 21-30
-    carton.push(Math.floor(Math.random() * 10) + 31);  // 31-40
-    carton.push(Math.floor(Math.random() * 10) + 41);  // 41-50
+    carton.push(Math.floor(Math.random() * 11));        
+    carton.push(Math.floor(Math.random() * 10) + 11);  
+    carton.push(Math.floor(Math.random() * 10) + 21);  
+    carton.push(Math.floor(Math.random() * 10) + 31);  
+    carton.push(Math.floor(Math.random() * 10) + 41);  
     return carton;
 }
 
@@ -58,7 +58,7 @@ async function iniciarBingo() {
     while (!hayGanador) {
         let numero;
         do {
-            numero = Math.floor(Math.random() * 51); /
+            numero = Math.floor(Math.random() * 51); 
         } while (numerosCantados.has(numero));
         numerosCantados.add(numero);
 

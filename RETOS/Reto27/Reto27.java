@@ -15,7 +15,7 @@ public class Reto27 {
         System.out.println("¡Bienvenido al juego de Bingo!");
         System.out.print("Ingrese el número de jugadores: ");
         int numJugadores = scanner.nextInt();
-        scanner.nextLine(); // Limpiar buffer
+        scanner.nextLine(); 
 
         List<String> jugadores = new ArrayList<>();
         Map<String, String[]> cartones = new HashMap<>();
@@ -39,7 +39,7 @@ public class Reto27 {
         while (!hayGanador) {
             int numero;
             do {
-                numero = new Random().nextInt(51); // 0 a 50
+                numero = new Random().nextInt(51); 
             } while (numerosCantados.contains(numero));
             numerosCantados.add(numero);
 
@@ -51,7 +51,7 @@ public class Reto27 {
 
                 for (int i = 0; i < carton.length; i++) {
                     if (carton[i].equals(String.valueOf(numero))) {
-                        carton[i] = "X"; // Marcar con "X"
+                        carton[i] = "X"; 
                         System.out.println(jugador + " tiene el número " + numero + " en su cartón.");
                         tieneNumero = true;
                     }
@@ -84,11 +84,11 @@ public class Reto27 {
     public static String[] generarCarton() {
         Random random = new Random();
         String[] carton = new String[5];
-        carton[0] = String.valueOf(random.nextInt(11)); // 0-10
-        carton[1] = String.valueOf(random.nextInt(10) + 11); // 11-20
-        carton[2] = String.valueOf(random.nextInt(10) + 21); // 21-30
-        carton[3] = String.valueOf(random.nextInt(10) + 31); // 31-40
-        carton[4] = String.valueOf(random.nextInt(10) + 41); // 41-50
+        carton[0] = String.valueOf(random.nextInt(11)); 
+        carton[1] = String.valueOf(random.nextInt(10) + 11); 
+        carton[2] = String.valueOf(random.nextInt(10) + 21); 
+        carton[3] = String.valueOf(random.nextInt(10) + 31); 
+        carton[4] = String.valueOf(random.nextInt(10) + 41); 
         return carton;
     }
 

@@ -27,18 +27,18 @@ def es_ganador(carton):
 def main():
     print("¡Bienvenido al juego de Bingo!")
 
-    # Solicitar número de jugadores
+   
     num_jugadores = int(input("Ingrese el número de jugadores: "))
     jugadores = []
     cartones = {}
 
-    # Solicitar nombres y generar cartones
+
     for i in range(num_jugadores):
         nombre = input(f"Ingrese el nombre del jugador {i + 1}: ")
         jugadores.append(nombre)
         cartones[nombre] = generar_carton()
 
-    # Mostrar cartones iniciales
+   
     print("\nCartones generados:")
     for jugador in jugadores:
         print(f"{jugador}: {cartones[jugador]}")
@@ -47,9 +47,9 @@ def main():
     numeros_cantados = set()
     hay_ganador = False
 
-    # Iniciar bucle del juego
+  
     while not hay_ganador:
-        # Generar número aleatorio no repetido
+      
         numero = random.randint(0, 50)
         while numero in numeros_cantados:
             numero = random.randint(0, 50)
@@ -57,7 +57,7 @@ def main():
 
         print(f"\nNúmero cantado: {numero}")
 
-        # Verificar si algún jugador tiene el número
+       
         for jugador in jugadores:
             carton = cartones[jugador]
             if numero in carton:
@@ -67,14 +67,14 @@ def main():
             else:
                 print(f"{jugador} no tiene el número {numero}.")
 
-            # Verificar si el jugador ganó
+            
             if es_ganador(carton):
                 print(f"\n¡{jugador} ha hecho Bingo y es el ganador!")
                 hay_ganador = True
                 break
 
         if not hay_ganador:
-            # Mostrar estado de los cartones
+          
             print("\nEstado de los cartones:")
             for jugador in jugadores:
                 print(f"{jugador}: {cartones[jugador]}")
