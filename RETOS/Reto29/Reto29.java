@@ -28,7 +28,7 @@ package RETOS.Reto29;
 import java.util.Scanner;
 
 public class Reto29 {
-      public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Ingresa el tamaño de la matriz (impar): ");
@@ -49,7 +49,7 @@ public class Reto29 {
         int x = size / 2, y = size / 2;
 
         int num = 1;
-        matrix[x][y] = num++; // Colocamos el número 1 en el centro
+        matrix[x][y] = num++; 
 
         int[] dx = {0, 1, 0, -1};
         int[] dy = {1, 0, -1, 0};
