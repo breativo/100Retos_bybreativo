@@ -46,6 +46,9 @@ En este **listado** dispondrás del titulo de cada unos de los **retos y su difi
 | 27    | DIFÍCIL    |[LINEA O BINGO](./RETOS/Reto27/Enunciado.md)|
 | 28    | FACIL      |[ÁRBOL NAVIDAD](./RETOS/Reto28/Enunciado.md)|
 | 29    | FACIL      |[ESPIRAL NUMÉRICO](./RETOS/Reto29/Enunciado.md)|
+| 30    | FACIL      |[CÓDIGO SECRETO](./RETOS/Reto30/Enunciado.md)|
+
+
 
 (El listado completo estará disponible en futuras actualizaciones).
 ## Cómo contribuir
