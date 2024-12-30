@@ -10,7 +10,7 @@ Reglas del Juego:
 
 - Inicialización:
         El jugador comienza con 25 monedas.
-        La tragaperras utiliza un conjunto de 10 iconos 5 diferentes (por ejemplo: "🍒", "🔔", "🍋", "💎", "⭐") más un comodín especial (por ejemplo, "🎲").
+        La tragaperras utiliza un conjunto de 10 iconos diferentes (por ejemplo: "🍒", "🔔", "🍋", "💎", "⭐", "🎲", "🌈", "🔥", "🍉", "❤️") más un comodín especial (por ejemplo, "🎲").
 
 - Jugabilidad:
         Cada jugada cuesta 1 moneda.

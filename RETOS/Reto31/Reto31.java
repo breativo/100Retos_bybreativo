@@ -8,7 +8,7 @@ public class Reto31 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String[] icons = {"🍒", "🔔", "🍋", "💎", "⭐", "🎲", "🌈", "🔥", "🍉", "🌟"};
+        String[] icons = {"🍒", "🔔", "🍋", "💎", "⭐", "🎲", "🌈", "🔥", "🍉", "❤️"};
         int coins = 25;
         int totalGames = 0;
         int wins = 0;

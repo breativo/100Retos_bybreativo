@@ -2,7 +2,7 @@
 import kotlin.random.Random
 
 fun main() {
-    val icons = listOf("🍒", "🔔", "🍋", "💎", "⭐", "🎲", "🌈", "🔥", "🍉", "🌟")
+    val icons = listOf("🍒", "🔔", "🍋", "💎", "⭐", "🎲", "🌈", "🔥", "🍉", "❤️")
     var coins = 25
     var totalGames = 0
     var wins = 0

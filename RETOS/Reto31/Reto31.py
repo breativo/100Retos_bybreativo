@@ -11,7 +11,7 @@ def print_stats(total_games, total_coins_won, wins, wildcard_wins, longest_losin
     print(f"Racha más larga sin aciertos: {longest_losing_streak}")
 
 def play_game():
-    icons = ["🍒", "🔔", "🍋", "💎", "⭐", "🎲", "🌈", "🔥", "🍉", "🌟"]
+    icons = ["🍒", "🔔", "🍋", "💎", "⭐", "🎲", "🌈", "🔥", "🍉", "❤️"]
     coins = 25
     total_games = 0
     wins = 0

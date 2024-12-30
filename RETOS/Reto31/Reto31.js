@@ -6,7 +6,7 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-const icons = ["🍒", "🔔", "🍋", "💎", "⭐", "🎲", "🌈", "🔥", "🍉", "🌟"];
+const icons = ["🍒", "🔔", "🍋", "💎", "⭐", "🎲", "🌈", "🔥", "🍉", "❤️"];
 let coins = 25;
 let totalGames = 0;
 let wins = 0;
